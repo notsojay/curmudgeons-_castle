@@ -1,0 +1,1 @@
+g++ castle.cpp position.cpp person.cpp guard.cpp indentured_guard.cpp roving_guard.cpp hunter_guard.cpp innocent.cpp curmudgeons_castle.cpp -o curmudgeons_castle
